@@ -1,5 +1,3 @@
-# ispolo.github.io
-ISPOLO MULTI-SERVICE
 <!DOCTYPE html>
 <html>
 <head>
